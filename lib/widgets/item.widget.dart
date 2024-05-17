@@ -16,7 +16,7 @@ class ItemWidget extends StatelessWidget {
         onTap: () {
           Navigator.pushNamed(context, MyRoutes.productRoute);
         },
-        leading: Image(image: AssetImage(item.image)),
+        leading: Image(image: NetworkImage(item.image)),
         title: Text(item.name, style: const TextStyle(color: Colors.white)),
         subtitle: Text(item.desc, style: const TextStyle(color: Colors.grey)),
         trailing: Text(

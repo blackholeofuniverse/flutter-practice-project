@@ -1,12 +1,13 @@
+
 class CatalogModel {
   static List<Item> items = [
     Item(
         id: 1,
         name: "Iphone 14 pro",
         desc: "Apple Iphone 14th generation",
-        price: "80,000",
+        price: 80000,
         color: "#1c1c1c",
-        image: 'assets/images/iPhone.png'),
+        image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg"),
   ];
 }
 
@@ -14,7 +15,7 @@ class Item {
   final int id;
   final String name;
   final String desc;
-  final String price;
+  final int price;
   final String color;
   final String image;
 

@@ -19,6 +19,7 @@ class _HomePageState extends State<HomePage> {
     loadData();
   }
 
+// Fetching the Data from JSON file
   loadData() async {
     await Future.delayed(const Duration(seconds: 2));
     final catalogJson =
@@ -28,7 +29,17 @@ class _HomePageState extends State<HomePage> {
     CatalogModel.items = List.from(productsData)
         .map<Item>((item) => Item.fromMap(item))
         .toList();
+
     setState(() {});
+
+    // setState(() {
+    //   var productsData = decodedData["products"];
+    //   // ignore: avoid_print
+    //   print("number of items : ${productsData.length}");
+    //   CatalogModel.items = List.from(productsData)
+    //       .map<Item>((item) => Item.fromMap(item))
+    //       .toList();
+    // });
   }
 
   @override
