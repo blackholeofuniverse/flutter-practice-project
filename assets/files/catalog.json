@@ -4,7 +4,7 @@
             "id": 1,
             "name": "iPhone 12 Pro",
             "desc": "Apple iPhone 12th generation",
-            "price": 999,
+            "price": "1,09,900",
             "color": "#33505a",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Pixel 5",
             "desc": "Google Pixel phone 5th generation",
-            "price": 699,
+            "price": "33,000",
             "color": "#00ac51",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "M1 Macbook Air",
             "desc": "Apple Macbook air with apple silicon",
-            "price": 1099,
+            "price": "1,34,900",
             "color": "#e0bfae",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Playstation 5",
             "desc": "Sony Playstation 5th generation",
-            "price": 500,
+            "price": "50,990",
             "color": "#544ee4",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "Airpods Pro",
             "desc": "Apple Aipods Pro 1st generation",
-            "price": 200,
+            "price": "24,900",
             "color": "#e3e4e9",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "iPad Pro",
             "desc": "Apple iPad Pro 2020 edition",
-            "price": 799,
+            "price": "79,900",
             "color": "#f73984",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "name": "Galaxy S21 Ultra",
             "desc": "Samsung Galaxy S21 Ultra 2021 edition",
-            "price": 1299,
+            "price": "92,999",
             "color": "#1c1c1c",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
         },
@@ -60,9 +60,105 @@
             "id": 8,
             "name": "Galaxy S21",
             "desc": "Samsung Galaxy S21 2021 edition",
-            "price": 899,
+            "price": "39,999",
             "color": "#7c95eb",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNHd7FwarbxA1xdMFt24KazjcR4dWPH_t_T5dz4YNK1s7rJAQ8gOIuR_NRw6eeiQgFhbZ9sAN&usqp=CAc"
-        }
+        },
+        {
+            "id": 9,
+            "name": "Wireless Charging Stand",
+            "desc": "Convenient and stylish way to power your devices",
+            "price": "349",
+            "color": "#ffffff",
+            "image": "https://m.media-amazon.com/images/I/71O59aVg-cL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 10,
+            "name": "AI-Powered Voice Assistant Speaker",
+            "desc": "Control your smart home and get information hands-free",
+            "price": "6,499",
+            "color": "#ffffff",
+            "image": "https://www.jiomart.com/images/product/original/491630510/google-nest-mini-smart-voice-activated-speaker-charcoal-digital-o491630510-p590039520-0-202009260647.jpeg?im=Resize=(420,420)"
+          },
+          {
+            "id": 11,
+            "name": " Lenovo Ultra-Portable Laptop",
+            "desc": "Lightweight and powerful for on-the-go productivity",
+            "price": "69,999",
+            "color": "#cccccc",
+            "image": "https://p4-ofp.static.pub//fes/cms/2024/04/12/g4th7x1gzrqkknb3q0pqg290rzc5az426772.png"
+          },
+          {
+            "id": 12,
+            "name": "Wireless Gaming Headset",
+            "desc": "Immersive sound and clear communication for your games",
+            "price": "1,650",
+            "color": "#000000",
+            "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSgNa4uA_nvLgHLaEckr4wTnt1dX0S_lP4HW-BICKRxkqDK0DFT4Mz5KTnCBAt2-pM4Ao9G8A_O-s8iWZsco9X1Xk5-8T0Z7LgjdaKEtPpl"
+          },
+          {
+            "id": 13,
+            "name": "3D Printing Pen",
+            "desc": "Bring your creative ideas to life in 3D",
+            "price": "1,499",
+            "color": "#ffffff",
+            "image": "https://m.media-amazon.com/images/I/511k5ZTErSL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 14,
+            "name": "MI High-Capacity Power Bank",
+            "desc": "Never run out of power with a 20000 MAH portable charger",
+            "price": "1,999",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/31grUs8OpvL._AC_UF480,480_SR480,480_.jpg"
+          },
+          {
+            "id": 15,
+            "name": "Acer Curved Gaming Monitor with High Refresh Rate",
+            "desc": "Acer ED320QR 31.5 Inch Full HD VA Panel 1500R",
+            "price": "24,450",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/81-HEflLXLL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 16,
+            "name": "Wireless Noise-Cancelling Earbuds",
+            "desc": "Immerse yourself in your music without distractions",
+            "price": "2,499",
+            "color": "#ffffff",
+            "image": "https://m.media-amazon.com/images/I/61IC6ehrCGL._AC_UL480_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 17,
+            "name": "DJI Mini 4K, Drone with 4K UHD Camera",
+            "desc": "Capture stunning aerial photos and videos",
+            "price": "42,950",
+            "color": "#ffffff",
+            "image": "https://m.media-amazon.com/images/I/61TcjJ4qDZL._AC_SL1500_.jpg"
+          },
+          {
+            "id": 18,
+            "name": "VR Headset Accessories",
+            "desc": "Enhance your VR experience with additional controllers or straps",
+            "price": "4,499",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/61jpVacH9tL._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 19,
+            "name": "TP-Link Next-Gen Wi-Fi 6 AX3000 Mbps",
+            "desc": "Prioritize gaming traffic for a lag-free experience",
+            "price": "4,950",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/41nWydiju6L._AC_UY327_FMwebp_QL65_.jpg"
+          },
+          {
+            "id": 20,
+            "name": "Fastrack New Limitless X2 Smartwatch",
+            "desc": "Track your fitness and navigate your surroundings with a smartwatch that has it all",
+            "price": "2,499",
+            "color": "#000000",
+            "image": "https://m.media-amazon.com/images/I/71kxX+vFv+L._AC_UY327_FMwebp_QL65_.jpg"
+          }
     ]
 }

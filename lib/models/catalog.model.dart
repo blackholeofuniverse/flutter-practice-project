@@ -5,7 +5,7 @@ class CatalogModel {
         id: 1,
         name: "Iphone 14 pro",
         desc: "Apple Iphone 14th generation",
-        price: 80000,
+        price: "80,000",
         color: "#1c1c1c",
         image: "https://m.media-amazon.com/images/I/61bK6PMOC3L._SX679_.jpg"),
   ];
@@ -15,7 +15,7 @@ class Item {
   final int id;
   final String name;
   final String desc;
-  final int price;
+  final String price;
   final String color;
   final String image;
 
