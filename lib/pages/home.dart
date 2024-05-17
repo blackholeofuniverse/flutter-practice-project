@@ -33,7 +33,6 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    final dummyList = List.generate(15, (index) => CatalogModel.items[0]);
     return Scaffold(
       backgroundColor: const Color(0xFF18181b),
       appBar: AppBar(
@@ -43,12 +42,12 @@ class _HomePageState extends State<HomePage> {
         ),
       ),
       body: Padding(
-        padding: const EdgeInsets.all(14.0),
+        padding: const EdgeInsets.all(12.0),
         child: ListView.builder(
-          itemCount: dummyList.length,
+          itemCount: CatalogModel.items.length,
           itemBuilder: (context, index) {
             return ItemWidget(
-              item: dummyList[index],
+              item: CatalogModel.items[index],
             );
           },
         ),
